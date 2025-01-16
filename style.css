@@ -59,7 +59,8 @@ flex-shrink: 0;
 
 
 .Testimonal{
-        display: flex;      
+        display: flex;    
+        justify-content: center;  
     }
 .Testimonal p{
     color: #000;
